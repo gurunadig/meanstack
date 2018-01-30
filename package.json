@@ -1,0 +1,27 @@
+{
+  "name": "meaner",
+  "version": "1.0.0",
+  "description": "this is the test for mean angular 2 build",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gurunadig/meanstack.git"
+  },
+  "keywords": [
+    "MEAN",
+    "stack"
+  ],
+  "author": "guru nadig",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gurunadig/meanstack/issues"
+  },
+  "homepage": "https://github.com/gurunadig/meanstack#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "mongoose": "^5.0.2"
+  }
+}
